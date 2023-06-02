@@ -3,6 +3,7 @@ package com.baeldung.jdi;
 public class JDIExampleDebuggee {
 
     public static void main(String[] args) {
+        
         String jpda = "Java Platform Debugger Architecture";
         System.out.println("Hi Everyone, Welcome to " + jpda); //add a break point here
 
