@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>azure</artifactId>
     <version>0.1</version>
-    <name>azure</name>
+    <name>azure</name> 
     <packaging>war</packaging>
     <description>Demo project for Spring Boot on Azure</description>
 
